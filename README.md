@@ -63,7 +63,7 @@ This setup serves as a learning tool and a demonstration of my technical skills.
 
 - Installed **Windows Server 2019** and promoted it to a **Domain Controller (DC)**.
 - Configured **Active Directory Domain Services (AD DS)**:
-  - Set up the **domain**: `mydomain.org`.
+  - Set up the **domain**: `homelab.org`.
   - Created **organizational units (OUs)** to simulate a corporate environment:
     - **Employees**
     - **IT Department**
